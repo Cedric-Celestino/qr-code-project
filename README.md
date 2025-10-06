@@ -103,6 +103,3 @@ I want to improve my skills in **layout positioning** and **container dimensions
 * Frontend Mentor for providing the challenge and assets.
 
 ```
-
----
-
