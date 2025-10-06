@@ -32,14 +32,13 @@ The QR Code Component allows you to generate scannable QR codes directly in your
 - Quick access to app features
 
 ## Screenshot
-![QR Code Component on Desktop](images/desktop.png)
-![QR Code Component on Mobile](images/mobile.png)
+![QR Code Component on Desktop](/image.png)
+![QR Code Component on Mobile](/image-1.png)
 
 > Make sure your screenshots are saved in an `images/` folder in your repo.
 
 ## Links
 - Solution URL: [GitHub Repository](https://github.com/YourUsername/qr-code-component)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
 
 ## My Process
 
@@ -54,33 +53,34 @@ Through this project, I learned the importance of a **mobile-first approach** in
 Here is an example of the mobile-specific CSS I used:
 
 ```css
-@media only screen and (max-width: 400px) {
+@media only screen and (min-width: 200px){
   .card {
-    top: 20%;
-    left: 9%;
-    max-width: 300px;
-    width: 100%;
-    height: 480px;
-    padding: 10px;
+      max-width: 18rem;
+      min-height: 28rem;
+      padding: 5%;
   }
+
   .qr-image {
-    max-width: 280px;
-    width: 100%;
-    object-fit: contain;
-    margin-bottom: 0px;
+      max-width: 18rem;
+      width: 100%;
+      object-fit: contain;
   }
+
   .title {
-    font-size: 1.1rem;
-    margin: 20px;
+      font-size: 1.1rem;
+      margin-inline-start: 1.2em;
+      margin-inline-end: 1.2em;
   }
+
   .description {
-    font-size: 0.9rem;
-    margin: 10px 12px;
-    margin-top: 0px;
+      font-size: 0.9rem;
+      margin-inline-start: 1.2em;
+      margin-inline-end: 1.2em;
   }
+
   .attribution {
-    font-size: 1rem;
-    padding: 0 5px;
+      font-size: 1rem;
+      padding: 0 3%;
   }
 }
 ````
