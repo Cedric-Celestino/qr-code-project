@@ -39,7 +39,8 @@ The QR Code Component allows you to generate scannable QR codes directly in your
 
 ## Links
 - Solution URL: [GitHub Repository](https://github.com/YourUsername/qr-code-component)
-- Live Site URL: [Website URL](https://cedric-celestino.github.io/qr-code-project/)
+- <a href="https://cedric-celestino.github.io/qr-code-project" target="_blank" rel="noopener noreferrer">Website URL</a>
+
 
 ## My Process
 
