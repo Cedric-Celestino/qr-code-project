@@ -39,6 +39,7 @@ The QR Code Component allows you to generate scannable QR codes directly in your
 
 ## Links
 - Solution URL: [GitHub Repository](https://github.com/YourUsername/qr-code-component)
+- Live Site URL: [Website URL](https://cedric-celestino.github.io/qr-code-project/)
 
 ## My Process
 
@@ -83,7 +84,7 @@ Here is an example of the mobile-specific CSS I used:
       padding: 0 3%;
   }
 }
-````
+```
 
 ### Continued Development
 
@@ -96,10 +97,9 @@ I want to improve my skills in **layout positioning** and **container dimensions
 ## Author
 
 * Frontend Mentor - [@Cedric](https://www.frontendmentor.io/profile/Cedric-Celestino)
-* Website: [Your Website Here](https://www.your-site.com)
 
 ## Acknowledgments
 
 * Frontend Mentor for providing the challenge and assets.
 
-```
+
