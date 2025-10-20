@@ -35,11 +35,10 @@ The QR Code Component allows you to generate scannable QR codes directly in your
 ![QR Code Component on Desktop](/image.png)
 ![QR Code Component on Mobile](/image-1.png)
 
-> Make sure your screenshots are saved in an `images/` folder in your repo.
 
 ## Links
 - Solution URL: [GitHub Repository](https://github.com/YourUsername/qr-code-component)
-- <a href="https://cedric-celestino.github.io/qr-code-project" target="_blank" rel="noopener noreferrer">Website URL</a>
+- Live Site URL: [Live Site](https://cedric-celestino.github.io/qr-code-project/)
 
 
 ## My Process
